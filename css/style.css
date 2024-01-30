@@ -49,4 +49,6 @@ footer {
 .dokument p {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: large;
+    /* zarovnání textu do bloku */
+    /* text-align: justify;  */
 }

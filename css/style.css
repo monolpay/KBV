@@ -32,3 +32,21 @@ a:hover {
 a.current {
     color: grey;
 }
+
+h4>a {
+    text-decoration: underline;
+}
+
+footer {
+    position: absolute;
+}
+
+.dokument {
+    text-align: left;
+    max-width: 70%;
+}
+
+.dokument p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}

@@ -12,6 +12,8 @@ nav {
     background-color: gold;
     padding: 10px;
     font-size: x-large;
+    position: sticky;
+    top: 0;
 }
 
 nav a {

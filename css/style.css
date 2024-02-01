@@ -3,6 +3,10 @@ html {
     text-align: center;
 }
 
+body {
+    margin: 0%;
+}
+
 div {
     margin: auto;
     padding: 10px;
@@ -55,4 +59,14 @@ footer {
 
 .rozcestnik a {
     text-decoration: underline;
+}
+aside {
+    position: sticky;
+    top: 80px;
+    float: right;
+    margin-right: 8%;
+    margin-top: 80px;
+    text-align: left;
+    border: 2px solid black;
+    padding: 21px 50px 10px 10px;
 }
